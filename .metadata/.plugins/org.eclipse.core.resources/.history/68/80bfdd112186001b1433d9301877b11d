@@ -1,0 +1,5 @@
+package com.cg.customerManagement.items.entity;
+
+public class Item {
+
+}

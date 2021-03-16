@@ -1,0 +1,5 @@
+package com.cg.customerManagement.items.exception;
+
+public class ItemNotFoundException {
+
+}

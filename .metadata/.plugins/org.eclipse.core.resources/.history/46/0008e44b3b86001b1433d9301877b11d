@@ -1,0 +1,5 @@
+package com.cg.customerManagement.customer.dto;
+
+public class CustomerDetail {
+
+}

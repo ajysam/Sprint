@@ -1,0 +1,5 @@
+package com.cg.customerManagement.items.dao;
+
+public interface IItemRepository {
+
+}
