@@ -1,0 +1,6 @@
+package com.cg.customer.management.customer.Dao;
+
+
+public interface ICustomerDao {
+
+}

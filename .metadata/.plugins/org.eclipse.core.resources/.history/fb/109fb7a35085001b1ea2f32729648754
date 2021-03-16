@@ -1,0 +1,14 @@
+
+package com.cg.customerManagement.customer.dao;
+
+import com.cg.customerManagement.*;
+
+public interface ICustomerDao {
+
+	public Customer add(Customer customer);
+
+	public Customer findByID(long customerID);
+
+	public Customer update(Customer customer);
+
+}

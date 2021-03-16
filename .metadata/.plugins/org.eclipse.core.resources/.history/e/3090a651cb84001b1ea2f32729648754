@@ -1,0 +1,5 @@
+package com.cg.customer.managementcustomer.entities;
+
+public class Customer {
+
+}
