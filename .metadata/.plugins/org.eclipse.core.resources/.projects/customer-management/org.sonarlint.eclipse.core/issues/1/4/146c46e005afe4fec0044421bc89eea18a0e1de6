@@ -1,6 +1,4 @@
 
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºØ—«ûÿÿÿÿHõRMINORZ
-CODE_SMELL
-“
-java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "customer".(ÿýð¯8Å¾£¤ƒ/HöRMINORZ
+M
+java:S1220""Move this file to a named package.8²×‰àƒ/HÓRMINORZ
 CODE_SMELL
